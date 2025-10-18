@@ -17,7 +17,7 @@ Predicting home sale prices on the House Price dataset using tree-based ensemble
 2. Run cells in order; the notebook installs any missing packages.
 3. Compare model metrics, then generate a submission with the best model.
 	 - Outputs:
-		 - `xgboost_submission.csv`
+		 - `submission.csv`
 
 ## Notes
 - Feature engineering includes total baths, total square footage, porch area, age features, and simple interactions.
