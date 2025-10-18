@@ -2,10 +2,6 @@
 
 Predicting home sale prices on the House Price dataset using tree-based ensemble models. The workflow includes data cleaning, feature engineering, model training, evaluation, and generating Kaggle-ready submissions.
 
-## Dataset
-- Ames Housing dataset (train.csv, test.csv)
-- Data dictionary provided in `data_description.txt`
-
 ## Models
 - Random Forest (bagging)
 - Gradient Boosting (sklearn)
