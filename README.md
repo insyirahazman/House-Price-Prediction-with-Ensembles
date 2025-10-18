@@ -1,4 +1,4 @@
-# House Price Prediction with Ensembles
+# House Price Prediction with Ensembles [(Kaggle)](https://www.kaggle.com/code/insyirahazman/house-prices-prediction-with-ensembles)
 
 Predicting home sale prices on the House Price dataset using tree-based ensemble models. The workflow includes data cleaning, feature engineering, model training, evaluation, and generating Kaggle-ready submissions.
 
@@ -24,4 +24,4 @@ Predicting home sale prices on the House Price dataset using tree-based ensemble
 - Categorical NAs like PoolQC, Alley, Fence are encoded as explicit "None" categories; numeric absences (e.g., MasVnrArea) are filled with 0.
 
 ## Reference
-[Kaggle(Dataset)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+[Kaggle House Price Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
